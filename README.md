@@ -1,6 +1,6 @@
 # spamcheck
 
-(https://github.com/golevi/spamcheck/workflows/CodeQL/badge.svg)
+
 
 spamcheck uses Postmark's spam API. The API is free to use. No API key is
 required. For more information visit https://spamcheck.postmarkapp.com/.
